@@ -1,0 +1,139 @@
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.Cache
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe.config
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.pdb
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCdata.dll
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCdata.pdb
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.exe
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.pdb
+D:\DDMC專案\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csprojResolveAssemblyReference.cache
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe.config
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\bin\Debug\PLCTools.pdb
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.Up2Date
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.exe
+D:\工作專案與主系統於2024_03_26同步\觀音紡織廠\Project\PLCTools\PLCTools\obj\Debug\PLCTools.pdb
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+D:\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe.config
+D:\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe
+D:\Project\PLCTools\PLCTools\bin\Debug\PLCTools.pdb
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.exe
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.pdb
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe.config
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\bin\Debug\PLCTools.exe
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\bin\Debug\PLCTools.pdb
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.SuggestedBindingRedirects.cache
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.CopyComplete
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.exe
+D:\工作專案與主系統於2024_03_26同步\Project\PLCTools\PLCTools\obj\Debug\PLCTools.pdb
+D:\Project\PLCTools\PLCTools\obj\Debug\PLCTools.csproj.Up2Date
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe.config
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.pdb
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Form1.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.Up2Date
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.exe
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.pdb
+L:\公司筆電備份 2021-08-16\D槽\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.SC01_DLG.resources
+L:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe.config
+L:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe
+L:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.pdb
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Form1.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.SC01_DLG.resources
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.Up2Date
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.exe
+L:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.pdb
+D:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe.config
+D:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe
+D:\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.pdb
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.SC01_DLG.resources
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.Up2Date
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.exe
+D:\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.pdb
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCdata.dll
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.exe.config
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCTools.pdb
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\bin\Debug\PLCdata.pdb
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.AssemblyReference.cache
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Form1.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1121P.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_1122V.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2033P.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\MessageCheck.Frm_2032V.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_GenerateMessageP.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Frm_Monitor.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.Properties.Resources.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.SC01_DLG.resources
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.GenerateResource.cache
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.CoreCompileInputs.cache
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.csproj.CopyComplete
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.exe
+D:\DDMC專案\觀音紡織廠\PLCTools_byVS2022\PLCTools\obj\Debug\PLCTools.pdb
